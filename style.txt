@@ -1,2 +1,9 @@
 css
 css
+coloquei duas imagens
+
+aumentei a borda da letra
+
+coloquei  outra cor
+
+alterei backgroud
